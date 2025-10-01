@@ -1,3 +1,4 @@
+
 # Unlocking Business Insights: A SQL-Powered Analysis of a Digital Music Store
 
 ### **1. Title**
@@ -20,7 +21,7 @@ The management of the digital music store aims to make data-driven decisions to 
   * Which artists should we invite for a promotional collaboration?
 
 This SQL analysis directly addresses these questions by delving into the sales and customer data.
-
+<img width="984" height="886" alt="Music_Database Schema" src="https://github.com/user-attachments/assets/f45c642f-49cc-416d-bc1e-3b13a221bfe2" />
 ### **4. Methodology**
 
 The analysis was conducted entirely using SQL, leveraging a relational database schema that connects customers, invoices, tracks, albums, artists, and genres. The approach involved writing a series of queries that ranged from simple to complex to uncover patterns and trends.
