@@ -4,7 +4,7 @@
 ### **1. Title**
 
 Music Store Sales Analysis
-##Database Schema
+## Database Schema
 <img width="984" height="886" alt="Music_Database Schema" src="https://github.com/user-attachments/assets/f45c642f-49cc-416d-bc1e-3b13a221bfe2" />
 ### **2. Executive Summary**
 
